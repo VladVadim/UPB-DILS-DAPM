@@ -1,0 +1,35 @@
+Memory booster
+(L'accélérateur de Mémoire Vive)
+
+La méthode employé par Linux de gestion des applications du portable avec Android ou tablets tient compte toujours de la vitesse d`accès, de démarche. De point de vue pratique ça veut dire que au moment qu`une unité avec Android est allumé, le system va automatiquement charger des application dar la mémoire vive pour accélérer son démarche lorsque c`est nécessaire. 
+Malheureusement, même si dans le cas de tablets on nous permets d`avoir une quantité suffisante de mémoire vive (RAM) à cause des dimensions plus large, dans le cas des portable la mémoire est plutôt limite (sauf si vous avez a votre dispose au moins 300 euro pour acheter un portable avec ~2 GB de mémoire vive, qui se trouve dans le top maintenant, ex : HTC ONE 16 GB) et souvent il nous arrive de constate que le portable fonction très lourde, comme si quelqu`un nous a volé l`Unité centrale très puissante qu`on a acheté en la remplaçante avec une tortue.
+
+I.	Description de l`application
+Pour cela IMOBLIFE Co. Ltd est venu avec une application de gestion des applications et de la mémoire vive appelée Memory Booster.
+Courte description du companie :
+iMobLife.Com is a branch of iMobLife Ltd. (Xi'an iMobLife Information Technology Co.,Ltd.). Since founded in 2005, iMobLife  has been a pioneer in cross-platform mobile application development. With advanced expertise in designing personal productivity software for smartphones. iMobLife helps its customers enhance the functionality and performance of their mobile devices. Currently our mobile software solutions are available for Symbian S60 2nd and 3rd edition cell phones, Windows Mobile smartphones, BlackBerry (RIM), Java Enabled (J2ME) smartphones, as well as Google Android platform. 
+Source:  http://www.imoblife.com/Company.html
+L'accélérateur de Mémoire Vive est un outil d'optimisation tout puissant de la mémoire vive (RAM) conçu particulièrement pour les utilisateurs du téléphone portable Android. Il a pour objet de résoudre tous les problèmes au niveau de la gestion de mémoire vive du téléphone portable, il peut aussi ranger les morceaux de la mémoire vive, réparer les problèmes à cause des logiciels appliqués de manière à libérer la mémoire vive, à accélérer la vitesse de déroulement du système et à économiser la consommation électrique
+
+
+
+II.	Caractéristiques/Utilisation + Interface graphique
+
+En effet, l`interface a trois parties qu`on peut accéder juste par un touche : 
+1)	Memory Status (Le statut de la mémoire)
+L`interface graphique nous affiche par 3 barres différentes la mémoire vive totale, la mémoire vive disponible et la mémoire vive occupée du portable par les diagrammes mis à jour à temps.  
+2)	Task Killer (gestion des applications est services – assassin des processus)
+En vue de la configuration optimisée automatique du seuil, l'Accélérateur de Mémoire Vive va entretenir la mémoire vive disponible du portable au-dessus du seuil, il commence l'optimisation aussitôt que la mémoire est inférieur au seuil.
+En plus de la fonction d'optimisation automatique, l'accélérateur dispose aussi de la fonction d'optimisation rapide par une clef manuelle.
+On peut fixer un intervalle de temps pour l'optimisation automatique, l'accélérateur fonctionne en arrière et effectue l'optimisation automatique en fonction de l'intervalle de temps fixé.
+L'accélérateur surveille successivement les ressources du système, et effectue le rangement des ordures lorsque la mémoire vive du système est trop petite.
+Cette partie nous permette aussi de voir une List blanche (whitelist), qui contient les applications système (qui doivent pas être tuées), aussi qu`une liste qu`on selecte nous-même des applications désiré et ceux qui doivent toujours être arrêtées. 
+3)	Boost Log  (enregistrement de toutes les actions du Memory Booster)
+C`est un journal d'optimisation qui garde les informations sur les moments d`optimisations et combien de mémoire a été gagnée. Aussi ca permet de voir comment Memory Booster affect les performances de votre portable. 
+
+On a aussi la possibilité de voir les informations Hardware du system : l`UC, Version de Software, Hardware, Platform Informations.
+De point de vue hardware, on peut dire que le plus le portable/tablet est puissante (l`unité centrale, mémoire vive),  le plus on peut voir des améliorations dans la vitesse de fonctionnement et utilisation de la mémoire et, implicitement, de l`énergie (durée de fonctionnement prolongée entre deux chargement successives).
+
+III.	Propre approche
+On a vu que Memory Booster a une option de gestion de la mémoire (RAM defragmentation option) vive, mais il n`y a pas une option de gestion de la mémoire permanent.
+Par une application comme celle-là on peut diminuer le temps d`accès et de chargement dans la mémoire vive, parce qu`il ne faut plus chercher les paquets dispersés de la même application, parfois sur les carte miniSD de 64 GB.
